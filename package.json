@@ -12,5 +12,8 @@
     "learn"
   ],
   "author": "Minhduc Cao",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.38.2"
+  }
 }
